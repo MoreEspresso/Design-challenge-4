@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+		<link href="https://fonts.googleapis.com/css?family=MedievalSharp&display=swap" rel="stylesheet">
+		<title>Blacksmith</title>
+		<style>
+		 h1 {
+		    color: black;
+			text-align: center;
+			font-size:60pt;
+			font-family: MedievalSharp;
+			margin-top: 10px;
+			margin-bottom: 1px;
+	    }
+
+		body {
+			  background-color: white;
+			  color: black;
+			  font-family: MedievalSharp;
+			  font-size: 15pt;
+			  background-image:url("shop.jpg");
+			  background-attachment: fixed;
+			  background-repeat: none;
+			  background-size: cover;
+		}
+		
+		div {
+			 background-color: ;
+			 background-image:url("paper.jpg");
+			 width: 600px;
+			 margin-left: auto;
+			 margin-right: auto;
+			 margin-top: 800px;
+			 padding: 30px;
+			 border: 10px solid black;
+			 border-radius: 20px;
+		}
+		
+		h2 {
+				color: black;
+				text-align: center;
+				margin-top: 50px;
+		}
+		
+		h3 {
+		        color: black;
+				font-size: 24pt;
+				text-align: center;
+				margin-top: 110px;
+		}	
+		img {
+				float: top;
+				width: 590px;
+				margin-top: 0px;
+				margin-left: 0px;
+				margin-right: 30px;
+		}
+		
+		p {
+				text-align: center;
+				margin-left: 1px;
+				margin-right: 20px;
+				width: 600px;
+		}
+		
+	</style>
+</head>
+
+<body>
+
+<div>
+
+<img src="anvil.jpg">
+
+<h1>Blacksmithing</h1>
+
+<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed pellentesque blandit cursus. Phasellus condimentum maximus volutpat. In dui odio, rutrum a ante non, tempor elementum purus. Sed eleifend varius vehicula. Aliquam a sodales lacus, sed euismod orci.</p>
+
+<h3>Metals</h3>
+
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque finibus aliquam odio. Morbi id tristique diam, sit amet semper ex. Nulla tincidunt massa ac urna tristique tempor non vitae lectus.</p>
+
+<h2>Cultures</h2>
+
+<p>Nam ut dictum erat, vitae <a href="https://www.youtube.com/">feugiat</a> lectus. Donec aliquet imperdiet tempor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum sollicitudin massa at quam auctor, ut egestas lectus convallis.</p>
+
+<h2>Popular products</h2>
+<ul>
+	<li>Vestibulum sollicitudin</li>
+	<li>Nam ut dictum</li>
+	<li>Interdum et malesuada</li>
+	<li>Aliquam a sodales</li>
+</ul>
+
+</div>
+
+</body>
+
+</html>
